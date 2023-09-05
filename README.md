@@ -1,4 +1,2 @@
-# CAD
-For Mechanical Engineers the CAD is an essential tool. The Computer-Aided Design is the use of computers to aid in the creation, modification, analysis, or optimization of a design. This software is used to increase the productivity of the designer, improve the quality of design, 
-improve communications through documentation, and to create a database for manufacturing. Files are generated usign SOLIDWORKS, it's a solid modeling computer-aided design (CAD) and computer-aided engineering (CAE) 
-application developed by Dassault Systèmes.
+# SOLIDWORKS CAD
+For Mechanical Engineers the CAD is an essential tool. SOLIDWORKS is used for Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA). Engineers can design machines parts and assemble them for a complete machine structure and animate the working behavior of machines. 
